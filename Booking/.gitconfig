@@ -1,0 +1,9 @@
+[user]
+	name = sunny-techtechhub
+	email = sunny@techtechhub.com
+[credential]
+	helper = osxkeychain
+[core]
+	autocrlf = input
+[diff]
+	algorithm = histogram
